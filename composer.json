@@ -1,0 +1,16 @@
+{
+    "name": "wc/hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuchen",
+            "email": "wuchvip@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\":"src/"
+        }
+    }
+}
