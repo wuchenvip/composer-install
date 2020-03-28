@@ -11,4 +11,8 @@ class SayHello{
         echo 'this is second version';
     }
 
+    public function sayhello(){
+        echo 'this is hello world';
+    }
+
 }
